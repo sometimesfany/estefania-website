@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "estefania-website"
+  navbar:
+    right:
+      - resume.qmd
+      - index.qmd
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+
+
+

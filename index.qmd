@@ -1,0 +1,31 @@
+---
+title: "intro"
+image: profile.jpg
+about:
+  template: broadside
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+Estefania Mitre is an award-winning multimedia producer with experience in social media content creation, video editing and strategy.
+ 
+At NPR she is a video producer and editor, developing news products for social media platforms. Occasionally she records and photographs at NPR's Tiny Desk.
+
+Estefania has covered topics including Latino issues, STEM, gender, and identity. Most of her work exists on visual social platforms (to include Youtube, Tiktok and Instagram).
+
+As a Mexican immigrant, she seeks to find the intersection between creativity and representation in media through her work. In her free time, she likes to dance Mexican Folklorico & Polynesian dance.
+
+---
+
+## collabs, get in touch?
+
+hey@estefaniamitre.com

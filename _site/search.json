@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "estefania mitre",
+    "title": "intro",
     "section": "",
-    "text": "Estefania Mitre is an award-winning multimedia producer with experience in social media content creation, video editing and strategy.\nAt NPR she is a video producer and editor, developing news products for social media platforms. Occasionally she records and photographs at NPR’s Tiny Desk.\nEstefania has covered topics including Latino issues, STEM, gender, and identity. Most of her work exists on visual social platforms (to include Youtube, Tiktok and Instagram).\nAs a Mexican immigrant, she seeks to find the intersection between creativity and representation in media through her work. In her free time, she likes to dance Mexican Folklorico & Polynesian dance.\n\ntitle: “Presentation” format: revealjs: chalkboard: true"
+    "text": "Estefania Mitre is an award-winning multimedia producer with experience in social media content creation, video editing and strategy.\nAt NPR she is a video producer and editor, developing news products for social media platforms. Occasionally she records and photographs at NPR’s Tiny Desk.\nEstefania has covered topics including Latino issues, STEM, gender, and identity. Most of her work exists on visual social platforms (to include Youtube, Tiktok and Instagram).\nAs a Mexican immigrant, she seeks to find the intersection between creativity and representation in media through her work. In her free time, she likes to dance Mexican Folklorico & Polynesian dance."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -54,5 +54,40 @@
     "title": "resume",
     "section": "",
     "text": "Editing: After Effects, Lightroom, Media Encoder, Premiere Pro, AI Adobe tools.\nProduction: Sony 7 & Alpha, Canon videocameras.\nGraphic: Photoshop, Illustrator, InDesign, Procreate.\nExtras: Microsoft Office, Scripting, Prototyping, Google Analytics, Chartbeat, Meta Business Suite, CrowdTangle."
+  },
+  {
+    "objectID": "index.html#collabs-get-in-touch",
+    "href": "index.html#collabs-get-in-touch",
+    "title": "intro",
+    "section": "collabs, get in touch?",
+    "text": "collabs, get in touch?\nhey@estefaniamitre.com"
+  },
+  {
+    "objectID": "index.html#graphic-portfolio",
+    "href": "index.html#graphic-portfolio",
+    "title": "intro",
+    "section": "graphic portfolio",
+    "text": "graphic portfolio"
+  },
+  {
+    "objectID": "index.html#video-portfolio",
+    "href": "index.html#video-portfolio",
+    "title": "intro",
+    "section": "video portfolio",
+    "text": "video portfolio"
+  },
+  {
+    "objectID": "index.html#photography",
+    "href": "index.html#photography",
+    "title": "intro",
+    "section": "photography",
+    "text": "photography"
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "intro",
+    "section": "resume",
+    "text": "resume"
   }
 ]

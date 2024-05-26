@@ -1,12 +1,16 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "estefania-website"
+  title: "estefania mitre"
   navbar:
     right:
-      - resume.qmd
       - index.qmd
+      - resume.qmd
+      - videoportfolio.qmd
+      - fotos.qmd
+      - visualportfolio.qmd
 format:
   html:
     theme: sketchy

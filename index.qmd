@@ -1,18 +1,18 @@
 ---
 title: "intro"
-image: profile.jpg
+image: Festival.png
 about:
   template: broadside
-  links:
+  links: 
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://x.com/estefaniammitre
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
+      href: https://www.linkedin.com/in/estefaniammitre
+    - icon: Instagram
+      text: Instagram
+      href: https://www.instagram.com/estefaniammitre
 
 ---
 
@@ -24,6 +24,22 @@ Estefania has covered topics including Latino issues, STEM, gender, and identity
 
 As a Mexican immigrant, she seeks to find the intersection between creativity and representation in media through her work. In her free time, she likes to dance Mexican Folklorico & Polynesian dance.
 
+#### Go click some buttons to see some of her work:
+
+::: {.grid}
+::: {.g-col-2}
+[resume](resume.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+:::
+::: {.g-col-2}
+[graphic](visualportfolio.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+:::
+::: {.g-col-2}
+[video](videoportfolio.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+:::
+::: {.g-col-2}
+[fotos](fotos.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+:::
+:::
 ---
 
 ## collabs, get in touch?

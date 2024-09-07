@@ -10,7 +10,7 @@ website:
       - resume.qmd
       - videoportfolio.qmd
       - fotos.qmd
-      - visualportfolio.qmd
+      - socialportfolio.qmd
 format:
   html:
     theme: sketchy

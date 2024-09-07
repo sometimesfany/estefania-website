@@ -1,8 +1,0 @@
----
-title: "visual portfolio"
-image: profile.jpg
-about:
-  template: broadside
-
-
----

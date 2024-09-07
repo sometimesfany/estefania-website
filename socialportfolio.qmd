@@ -1,0 +1,19 @@
+---
+title: "social portfolio"
+lightbox: true
+  
+
+---
+## NPR
+### Summary: 
+Developing and experimenting the creation of content for social media on  Instagram reels,  stories, animations with text and audio, text-based social media posts, Tiktok  for over 20 Million followers across social vertical platforms.
+
+Worked on strategies alongside video, photo teams to create daily videos to represent NPR's reporting.
+
+Working in collaboration with member stations from NPR's network on best practices for instagram posts and short-form video strategies.
+
+![Daily newsletter style, summary of news on Instagram](images/newsletter-instagram.png){.lightbox width=500} 
+
+![Text-based image cards on Instagram](images/Teens-text-carousel){.lightbox width=500} 
+
+![Photo and text cards with alternate text on Instagram](images/Paralympics-image-text.png){.lightbox width=500} 

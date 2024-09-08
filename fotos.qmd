@@ -5,3 +5,5 @@ about:
   template: broadside
 
 ---
+
+![](fotografia/Xochi01.jpg){fig-alt="A man standing on a canoe at the shore of a Xochimilco river." fig-align="left"}

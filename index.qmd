@@ -1,8 +1,10 @@
 ---
 title: "intro"
-image: Festival.png
+lightbox: true
+image: Festival.png 
+
 about:
-  template: broadside
+  template: trestles
   links: 
     - icon: twitter
       text: Twitter
@@ -31,10 +33,10 @@ As a Mexican immigrant, she seeks to find the intersection between creativity an
 [resume](resume.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
 :::
 ::: {.g-col-2}
-[social](socialportfolio.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+[social](npr.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
 :::
 ::: {.g-col-2}
-[video](videoportfolio.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+[video strategy](videoportfolio.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
 :::
 ::: {.g-col-2}
 [fotos](fotos.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}

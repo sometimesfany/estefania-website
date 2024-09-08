@@ -1,6 +1,6 @@
 ---
 title: "resume"
-image: Andosiendo.png
+image: EM-01.png
 about:
   template: trestles
 
@@ -18,6 +18,6 @@ about:
 - **AFP Fact Check**, Social Media Editor [Jan 2021 – Jun 2021]
 - **Impremedia**, Freelance Social Editor [October 2020 - August 2021]
 - **Instagram**, Local News Fellow [June 2020 – October 2020]
-- **Wholesome Creative Works**, Social Media intern [Jan 2020 – July 2020]
+- **Wholesome Creative Works**, Social Media Assistant [Jan 2020 – July 2020]
 - **NBC News, MSNBC, Telemundo** Freelance, Fixer [May 2019 – Feb 2020]
 - **PBS El Paso**, Communications Assistant [Aug 2018 – Jan 2020]

@@ -9,16 +9,16 @@ Co-created, directed and hosted a series featuring objects from the National Ame
 <!-- Row 1 -->
 ::: {.grid}
 ::: {.g-col-4}
-{{< video videos/20240503_MargaritaFinal.mp4 >}}
+{{< video videos/FMargarita.mp4 >}}
 :::
 
 ::: {.g-col-4}
-{{< video videos/20240307_DORA_v2.mp4 >}}
+{{< video videos/FDora.mp4 >}}
 
 :::
 
 ::: {.g-col-4}
-{{< video videos/20240816_Paños_final.mp4 >}}
+{{< video videos/FPanos.mp4 >}}
 :::
 :::
 
@@ -28,16 +28,16 @@ Prototyped a series featuring Latino Music takes for alt.Latino Tiktok. Directed
 <!-- Row 2 -->
 ::: {.grid}
 ::: {.g-col-4}
-{{< video videos/victoria.mp4 >}}
+{{< video videos/FVictoria.mp4 >}}
 :::
 
 ::: {.g-col-4}
-{{< video videos/farruko.mp4 >}}
+{{< video videos/FFarruko.mp4 >}}
 
 :::
 
 ::: {.g-col-4}
-{{< video videos/molotov.mp4 >}}
+{{< video videos/FMolotov.mp4 >}}
 :::
 :::
 
@@ -47,16 +47,16 @@ Worked with freelance videographers on editing and directing them on best practi
 <!-- Row 3 -->
 ::: {.grid}
 ::: {.g-col-4}
-{{< video videos/Violeta_Ukraine_v4.mp4 >}}
+{{< video videos/Ukraine-tim_F.mp4 >}}
 :::
 
 ::: {.g-col-4}
-{{< video videos/UKRAINE-tim.mp4 >}}
+{{< video videos/FYamadan.mp4 >}}
 
 :::
 
 ::: {.g-col-4}
-{{< video videos/roe.mp4 >}}
+{{< video videos/FRoeW.mp4 >}}
 :::
 :::
 
@@ -65,11 +65,11 @@ Worked with freelance videographers on editing and directing them on best practi
 ::: {.grid}
 
 ::: {.g-col-6}
-{{< video video/Fani_Espanol_High.mp4 >}}
+{{< video videos/FFany-I.mp4 >}}
 :::
 
 ::: {.g-col-6}
-{{< video video/FaniRosas_Parte2_L.mp4 >}}
+{{< video videos/FFanyE.mp4 >}}
 :::
 :::
 

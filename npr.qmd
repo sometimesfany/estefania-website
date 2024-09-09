@@ -80,19 +80,19 @@ Prototyped a workflow to work with NPR'S international correspondents to create 
 
 ::: {.g-col-4}
 
-{{< video bebe/Ukraine.mp4 >}}
+{{< video videos/FUkraine-IC.mp4 >}}
 
 :::
 
 ::: {.g-col-4}
 
-{{< video bebe/Kyiv.mp4 >}}
+{{< video videos/Fkyiv.mp4 >}}
 
 :::
 
 ::: {.g-col-4}
 
-{{< video bebe/GAZA.mp4 >}}
+{{< video videos/FGAZA.mp4 >}}
 
 
 :::
@@ -106,13 +106,13 @@ Prototyped the usage of a vertical format for daily news – worked with Senior 
 
 ::: {.g-col-6}
 
-{{< video bebe/luchalibre.mp4 >}}
+{{< video videos/FLuchaLibrre.mp4 >}}
 
 :::
 
 ::: {.g-col-6}
 
-{{< video bebe/2024_mobama_v3.mp4 >}}
+{{< video videos/MichelleObama.mp4 >}}
 
 :::
 :::

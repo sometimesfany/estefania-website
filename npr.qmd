@@ -20,11 +20,7 @@ Working in collaboration with member stations from NPR's network on best practic
 ::: {.grid}
 
 ::: {.g-col-4}
-<!-- ![Daily newsletter style, summary of news on Instagram](https://drive.google.com/file/d/1jvjQyGcmRKmAEzuf5xNPU9dbNCR5arut/preview){.lightbox width=400}  -->
-
-<img src="https://drive.google.com/file/d/1jvjQyGcmRKmAEzuf5xNPU9dbNCR5arut/preview" alt = "Daily newsletter sytle" width="400"></img>
-
-
+![Daily newsletter style, summary of news on Instagram](images/newsletter-instagram.png){.lightbox width=400} 
 :::
 
 ::: {.g-col-4}
@@ -146,8 +142,7 @@ Audiogram, animations with text and audio, for an 'It's Been A Minute' music ser
 
 ::: {.g-col-4}
 
-<!-- {{< video https://drive.google.com/file/d/1eYxn7z9At5s9Kp0n6LwF1XGamKwX_zzm/preview >}} -->
-<iframe src="https://drive.google.com/file/d/1eYxn7z9At5s9Kp0n6LwF1XGamKwX_zzm/preview" allow="autoplay"></iframe>
+{{< video images/15-IBAM_Questlove_v16x9_v2.mp4 >}}
 Audiogram, animations with text and audio, for an 'It's Been A Minute' special promo
 
 :::

@@ -1,0 +1,250 @@
+---
+title: "npr"
+lightbox: true
+---
+
+
+### Summary: 
+Developing and experimenting the creation of content for social media on  Instagram reels,  stories, animations with text and audio, text-based social media posts, Tiktok  for over 20 Million followers across social vertical platforms.
+
+Worked on strategies alongside video, photo teams to create daily videos to represent NPR's reporting.
+
+Developed a team and workflow to create text-based cards for NPR's instagram showcasing original reporting.
+
+Working in collaboration with member stations from NPR's network on best practices for instagram posts and short-form video strategies.
+
+### Text and Image Based Cards
+
+
+<!-- Row 1 -->
+::: {.grid}
+
+::: {.g-col-4}
+<!-- ![Daily newsletter style, summary of news on Instagram](https://drive.google.com/file/d/1jvjQyGcmRKmAEzuf5xNPU9dbNCR5arut/preview){.lightbox width=400}  -->
+
+<img src="https://drive.google.com/file/d/1jvjQyGcmRKmAEzuf5xNPU9dbNCR5arut/preview" alt = "Daily newsletter sytle" width="400"></img>
+
+
+:::
+
+::: {.g-col-4}
+![Text-based image cards on Instagram](images/Teens-text-carousel){.lightbox width=400} 
+:::
+
+::: {.g-col-4}
+![Photo and text cards with alternate text on Instagram](images/Paralympics-image-text.png){.lightbox width=400} 
+:::
+
+:::
+
+
+<!-- Row 2 -->
+
+::: {.grid}
+::: {.g-col-4}
+![Story graphics and detailed caption](images/Graphic.png){.lightbox width=400} 
+:::
+
+::: {.g-col-4}
+
+![Detailed caption, profile style](images/Copy-image.png){.lightbox width=400} 
+
+:::
+
+::: {.g-col-4}
+![Collaboration with member station, editing copy, visual elements](images/KFFcollab.png){.lightbox width=400} 
+
+:::
+
+:::
+
+<!-- Row 2 -->
+
+::: {.grid}
+::: {.g-col-6}
+![Illustrations and detailed caption](images/illo1.png){.lightbox width=400} 
+:::
+
+::: {.g-col-6}
+
+![Illustrations and detailed caption](images/illo2.png){.lightbox width=400} 
+
+:::
+:::
+
+
+
+<!-- ![Collaboration with member station, editing copy, visual elements](images/MPRCollab.png){.lightbox width=400}  --> 
+
+### Collaboration for Reels with International Correspondents
+Prototyped a workflow to work with NPR'S international correspondents to create short-form content for vertical platforms
+<!-- Row 1 -->
+
+::: {.grid}
+
+::: {.g-col-4}
+
+{{< video videos/FUkraine-IC.mp4 >}}
+
+:::
+
+::: {.g-col-4}
+
+{{< video videos/Fkyiv.mp4 >}}
+
+:::
+
+::: {.g-col-4}
+
+{{< video videos/FGAZA.mp4 >}}
+
+
+:::
+:::
+
+### Daily Reels for vertical platforms
+Prototyped the usage of a vertical format for daily news – worked with Senior Designer to refine the template
+<!-- Row 2 -->
+
+::: {.grid}
+
+::: {.g-col-6}
+
+{{< video videos/FLuchaLibrre.mp4 >}}
+
+:::
+
+::: {.g-col-6}
+
+{{< video videos/MichelleObama.mp4 >}}
+
+:::
+:::
+
+
+
+
+
+### Audiograms
+
+::: {.grid}
+
+::: {.g-col-4}
+
+{{< video images/LatinAudiogram_IG_v2.mp4 >}}
+
+Audiogram, animations with text and audio, for an 'It's Been A Minute' music series
+
+:::
+
+::: {.g-col-4}
+
+{{< video images/IGFeed_JJBFP_V1.mp4 >}}
+
+Audiogram, animations with text and audio, for an 'It's Been A Minute' music series
+:::
+
+::: {.g-col-4}
+
+<!-- {{< video https://drive.google.com/file/d/1eYxn7z9At5s9Kp0n6LwF1XGamKwX_zzm/preview >}} -->
+<iframe src="https://drive.google.com/file/d/1eYxn7z9At5s9Kp0n6LwF1XGamKwX_zzm/preview" allow="autoplay"></iframe>
+Audiogram, animations with text and audio, for an 'It's Been A Minute' special promo
+
+:::
+:::
+
+
+
+### Instagram Stories 
+
+Developed templates, editing and overseeing a team to curate them
+
+<!-- Row 1 -->
+::: {.grid}
+::: {.g-col-3}
+
+![ ](IGS/PAL_1.png){.lightbox width=400} 
+:::
+
+::: {.g-col-3}
+
+![ ](IGS/PAL_2.png){.lightbox width=400} 
+:::
+
+::: {.g-col-3}
+
+![ ](IGS/PAL_03.png){.lightbox width=400} 
+:::
+
+::: {.g-col-3}
+
+![ ](IGS/PAL_04.png){.lightbox width=400} 
+
+:::
+:::
+
+
+<!-- Row 2 -->
+::: {.grid}
+
+::: {.g-col-3}
+
+{{< video images/JJ_01.mp4 >}}
+
+:::
+
+::: {.g-col-3}
+
+![ ](IGS/JJ_02.png)
+
+
+
+:::
+
+::: {.g-col-3}
+
+{{< video IGS/JJ_03.mp4 >}}
+
+:::
+
+::: {.g-col-3}
+
+![ ](IGS/JJ_04.png)
+
+:::
+:::
+
+<!-- Row 3 -->
+::: {.grid}
+::: {.g-col-2}
+
+![ ](IGS/1.png){.lightbox width=400} 
+:::
+
+::: {.g-col-2}
+
+![ ](IGS/2.png){.lightbox width=400} 
+:::
+
+::: {.g-col-2}
+
+![ ](IGS/3.png){.lightbox width=400} 
+:::
+
+::: {.g-col-2}
+
+![ ](IGS/4.png){.lightbox width=400} 
+
+:::
+
+::: {.g-col-2}
+
+![ ](IGS/5.png){.lightbox width=400} 
+
+:::
+
+::: {.g-col-2}
+
+![ ](IGS/6.png){.lightbox width=400} 
+:::
+:::

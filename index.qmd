@@ -1,0 +1,49 @@
+---
+title: "intro"
+lightbox: true
+image: Festival.png 
+
+about:
+  template: trestles
+  links: 
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/estefaniammitre
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/estefaniammitre
+    - icon: Instagram
+      text: Instagram
+      href: https://www.instagram.com/estefaniammitre
+
+---
+
+Estefania Morales Mitre is an award-winning multimedia producer with experience in social media content creation, video editing and strategy.
+ 
+At NPR she is a video producer and editor, developing news products for social media platforms. Occasionally she records and photographs at NPR's Tiny Desk.
+
+Estefania has covered topics including Latino issues, STEM, gender, and identity. Most of her work exists on visual social platforms (to include Youtube, Tiktok and Instagram).
+
+As a Mexican immigrant, she seeks to find the intersection between creativity and representation in media through her work. In her free time, she likes to dance Mexican Folklorico & Polynesian dance.
+
+#### Go click some buttons to see some of her work:
+
+::: {.grid}
+::: {.g-col-2}
+[resume](resume.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+:::
+::: {.g-col-2}
+[social](npr.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+:::
+::: {.g-col-2}
+[video strategy](videoportfolio.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+:::
+::: {.g-col-2}
+[fotos](fotos.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+:::
+:::
+---
+
+## collabs, get in touch?
+
+hey@estefaniamitre.com

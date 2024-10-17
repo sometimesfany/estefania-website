@@ -1,0 +1,54 @@
+---
+title: "estefania-website"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+# 101 Things in 1001 Days
+Start Date: September 12, 2024
+
+End Date: June 10, 2027
+
+1. Teach English/Spanish.
+2. Visit Oaxaca and document the life of textile designers.
+3. Apply for the FASPE program and get it.
+4. Prioritize and define my personal branding.
+5. Change jobs and be in a place where I am and feel respected. 
+6. Keep freelancing and cultivating my clients.
+7. Visit Hawai'i.
+8. Visit one new country every year. 
+9. Take on a vacation my mom.
+10. Have stable housing/working towards buying property.
+11. Visit Japan.
+12. Visit Bacalar.
+13. Win a first place, if possible an overall in a competition.
+14. Dance veracruz in folklorico. 
+15. Watch! or Be part of a Heiva i Tahiti as a dancer.
+16. Live/Work in another country/continent.
+17. Learn French.
+18. Start learning German. 
+19. Take a Pole Dancing class.
+20. Take a Heels Dance class.
+21. Pride in Montreal.
+22. Model for two/three indie brands.
+23. Grow my Tiktok and Youtube channel in a sustainable way.
+24. Finish the novel about my dad.
+25. Write the picture book about folklorico story.
+26. Become a well-known content creator in English and Español.
+27. Take a road trip across the U.S.
+28. Camp.
+29. Go to a music festival again.
+30. Write and publish a book about my adventures. 
+31. Be part of at least two PR lists.
+32. Start designing my clothes again.
+33. Produce a documentary on queer communities.
+34. Finish a writing project. 
+35. Get invited to Fashion Week
+36. Prioritize mind and body wellness.
+37. Fixed my teeth.

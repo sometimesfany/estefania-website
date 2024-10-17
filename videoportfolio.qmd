@@ -1,0 +1,64 @@
+---
+title: "video  strategy"
+lightbox: true
+
+---
+## Series collaboration with the Smithsonian
+Co-created, directed and hosted a series featuring objects from the National American History Museum that feature Latin American History.
+
+<!-- Row 1 -->
+::: {.grid}
+::: {.g-col-4}
+{{< video videos/FMargarita.mp4 >}}
+:::
+
+::: {.g-col-4}
+{{< video videos/FDora.mp4 >}}
+
+:::
+
+::: {.g-col-4}
+{{< video videos/FPanos.mp4 >}}
+:::
+:::
+
+## Tiktok Latino Music Series
+Prototyped a series featuring Latino Music takes for alt.Latino Tiktok. Directed alt. Latino Tiktok on best practices for social media.
+
+<!-- Row 2 -->
+::: {.grid}
+::: {.g-col-4}
+{{< video videos/FVictoria.mp4 >}}
+:::
+
+::: {.g-col-4}
+{{< video videos/FFarruko.mp4 >}}
+
+:::
+
+::: {.g-col-4}
+{{< video videos/FMolotov.mp4 >}}
+:::
+:::
+
+## Freelance Videographers Edits
+Worked with freelance videographers on editing and directing them on best practices on delivering a social-first video package.
+
+<!-- Row 3 -->
+::: {.grid}
+::: {.g-col-4}
+{{< video videos/Ukraine-tim_F.mp4 >}}
+:::
+
+::: {.g-col-4}
+{{< video videos/FYamadan.mp4 >}}
+
+:::
+
+::: {.g-col-4}
+{{< video videos/FRoeW.mp4 >}}
+:::
+:::
+
+## Horizontal reel
+{{< video https://youtu.be/t8KAVCmaxHM >}}

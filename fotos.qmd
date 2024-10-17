@@ -1,0 +1,31 @@
+---
+title: "photo edit"
+
+
+---
+
+- Worked with freelance photojournalists on editing and licensing their photography for Picture Show.
+
+- Worked with NPR's member station photographers on the end of the year photography, editing and making selects to showcase their work.
+
+<!-- Row 1 -->
+::: {.grid}
+::: {.g-col-6}
+![ ](fotografia/afro.png){.lightbox width=400} 
+:::
+
+::: {.g-col-6}
+![ ](fotografia/boxing.png){.lightbox width=400} 
+:::
+:::
+
+::: {.grid}
+::: {.g-col-6}
+![ ](fotografia/friends.png){.lightbox width=400} 
+:::
+
+::: {.g-col-6}
+![ ](fotografia/cancer.png){.lightbox width=400} 
+:::
+:::
+

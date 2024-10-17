@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "estefania mitre"
+  page-navigation: true
+  navbar:
+    right:
+      - index.qmd
+      - resume.qmd
+      - videoportfolio.qmd
+      - fotos.qmd
+      - sidebar:socials
+      
+  sidebar:
+    - id: socials
+      tile: "Social Portfolio"
+      style: "docked"
+      collapse-level: 2
+      contents:
+        - npr.qmd
+        - impremedia.qmd
+        - afp.qmd
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+resources:
+  - CNAME
+
+
+

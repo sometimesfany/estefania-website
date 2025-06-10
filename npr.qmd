@@ -112,7 +112,7 @@ Prototyped the usage of a vertical format for daily news – worked with Senior 
 
 ::: {.g-col-6}
 
-{{< video videos/MichelleObama.mp4 >}}
+{{< video https://player.cloudinary.com/embed/?cloud_name=dzjanugvs&public_id=MichelleObama_slmczc&profile=cld-default >}}
 
 :::
 :::

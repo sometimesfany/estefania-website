@@ -6,26 +6,25 @@ website:
   title: "estefania mitre"
   page-navigation: true
   navbar:
+    background: light
     right:
       - index.qmd
-      - resume.qmd
-      - videoportfolio.qmd
-      - fotos.qmd
-      - sidebar:socials
+      # - social-media-impact.qmd
+      - sidebar:portfolios
       
   sidebar:
-    - id: socials
-      tile: "Social Portfolio"
+    - id: portfolios
+      tile: "Portfolio"
       style: "docked"
       collapse-level: 2
       contents:
-        - npr.qmd
-        - impremedia.qmd
-        - afp.qmd
+        - portfolio-video.qmd
+        - portfolio-multimedia.qmd
+        - portfolio-online.qmd
 
 format:
   html:
-    theme: sketchy
+    theme: lux
     css: styles.css
 resources:
   - CNAME

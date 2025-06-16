@@ -1,0 +1,9 @@
+---
+title: "Second Case Study"
+author: "Harlow Malloc"
+date: "2024-05-26"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.

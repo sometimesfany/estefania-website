@@ -1,0 +1,14 @@
+---
+title: "Social Media Impact"
+listing:
+  contents: social-media-impact-posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+Click through to see my case studies:

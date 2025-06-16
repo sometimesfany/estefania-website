@@ -16,7 +16,7 @@ about:
       href: https://www.instagram.com/astoldbyfany
     - icon: Tiktok
       text: Tiktok
-      href: Tiktok.com/@astoldbyfany
+      href: https://www.tiktok.com/@astoldbyfany
     
 ---
 

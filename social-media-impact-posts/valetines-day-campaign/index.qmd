@@ -1,0 +1,43 @@
+---
+title: "A Valentine’s Day Campaign with Heart (and Science)"
+categories: [analysis]
+image: "https://res.cloudinary.com/dzjanugvs/image/upload/v1750114062/Valentin_eceqzr.png"
+---
+
+
+::: {.grid}
+
+
+
+::: {.g-col-6}
+
+![](https://res.cloudinary.com/dzjanugvs/image/upload/v1750114062/Valentin_eceqzr.png){width=500}
+
+
+:::
+
+::: {.g-col-6}
+
+At NASA en Español, we’re always exploring new ways to connect with our audiences—especially those who might not see themselves reflected in traditional science communication. This past Valentine’s Day, we launched a mini social media campaign with a simple goal: speak the audience’s shared language while sparking curiosity about space.
+
+Playing off a popular trend where brands share themed Valentine’s cards, we created a series of space-inspired Valentines to share across X, Instagram, and Facebook. Each card paired a clever phrase with a space or science fact—designed to feel timely, playful, and most importantly, familiar.
+
+Why? Because reaching wider audiences—especially Spanish-speaking communities—requires more than translation. It takes cultural fluency. It means showing up in the spaces where people already are, and speaking in ways that resonate emotionally and culturally.
+
+The response exceeded our expectations:
+
+Over 1 million accounts reached
+
+More than 9,400 shares
+
+Nearly 1,200 new followers, with Instagram leading the engagement
+
+This campaign reminded us that relatability and relevance are key to accessibility. When we blend science with humor, creativity, and a bit of corazón, we open doors to new audiences—and build lasting connections along the way.
+
+:::
+
+::: <!-- end columns -->
+
+
+
+

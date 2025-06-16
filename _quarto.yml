@@ -9,7 +9,7 @@ website:
     background: light
     right:
       - index.qmd
-      # - social-media-impact.qmd
+      - social-media-impact.qmd
       - sidebar:portfolios
       
   sidebar:

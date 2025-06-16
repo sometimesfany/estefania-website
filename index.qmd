@@ -13,16 +13,18 @@ about:
       href: https://www.linkedin.com/in/estefaniammitre
     - icon: Instagram
       text: Instagram
-      href: https://www.instagram.com/estefaniammitre
+      href: https://www.instagram.com/astoldbyfany
+    - icon: Tiktok
+      text: Tiktok
+      href: Tiktok.com/@astoldbyfany
+    
 ---
 
-Estefania Morales Mitre is an award-winning multimedia producer with experience in social media content creation, video editing and strategy.
- 
-At NPR she is a video producer and editor, developing news products for social media platforms. Occasionally she records and photographs at NPR's Tiny Desk.
+Estefania Morales Mitre is a media content strategist and social media specialist who thrives at the intersection of creativity, culture, and audience engagement.
 
-Estefania has covered topics including Latino issues, STEM, gender, and identity. Most of her work exists on visual social platforms (to include Youtube, Tiktok and Instagram).
+With a finger always on the pulse of emerging media trends, Estefania brings a sharp editorial eye and an instinct for storytelling that resonates across platforms. From shaping science communication at NASA en Español to producing identity-driven visual content at NPR, she has built digital strategies that inform, inspire, and grow communities.
 
-As a Mexican immigrant, she seeks to find the intersection between creativity and representation in media through her work. In her free time, she likes to dance Mexican Folklorico & Polynesian dance.
+Whether she's launching a vertical video series, building content strategies from the ground up, or collaborating with photographers and creatives to elevate their voices, Estefania designs content ecosystems that are trend-aware, audience-first, and culturally grounded.
 
 ### collabs, get in touch?
 

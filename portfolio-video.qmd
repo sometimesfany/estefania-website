@@ -2,8 +2,9 @@
 title: "Video"
 ---
 
+Everything here is something I have scripted and produced. 
 
-<!-- Row 2 -->
+<!-- Row 1 -->
 ::: {.grid}
 ::: {.g-col-6}
 {{< video https://youtu.be/1QQexSq3_Tw?si=Ch1jU0CAX054yVgk >}}
@@ -12,6 +13,43 @@ title: "Video"
 
 ::: {.g-col-6}
 {{< video https://youtu.be/cmGGgGgUG-M?si=Ny9ZyPLpfnV_Xn33 >}}
+
+:::
+:::
+
+
+<!-- Row 2 -->
+::: {.grid}
+::: {.g-col-4}
+{{< video https://res.cloudinary.com/dzjanugvs/video/upload/v1750192541/TitoPuente_g84c20.mp4 >}}
+
+:::
+
+::: {.g-col-4}
+{{< video https://res.cloudinary.com/dzjanugvs/video/upload/v1750192814/Margarita-Machine_fg6i5d.mp4 >}}
+
+
+:::
+
+::: {.g-col-4}
+{{< video https://res.cloudinary.com/dzjanugvs/video/upload/v1750192893/GloriaEstefan_rio6ap.mp4 >}}
+
+
+
+:::
+:::
+
+
+<!-- Row 3 -->
+::: {.grid}
+::: {.g-col-4}
+{{< video https://res.cloudinary.com/dzjanugvs/video/upload/v1750193127/Pan%CC%83os_bhduc5.mp4 >}}
+
+:::
+
+::: {.g-col-4}
+{{< video https://res.cloudinary.com/dzjanugvs/video/upload/v1750193349/FarmWorkersEast_dnctfg.mp4 >}}
+
 
 :::
 :::

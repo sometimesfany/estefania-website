@@ -1,0 +1,55 @@
+---
+title: "How NPR Reimagined 2024 Election Coverage on Instagram"
+categories: [analysis]
+image: "https://res.cloudinary.com/dzjanugvs/image/upload/v1750191842/Captura_de_pantalla_2025-06-17_a_la_s_4.23.23_p.m._b6q0sx.png"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+
+![](https://res.cloudinary.com/dzjanugvs/image/upload/v1750191759/Captura_de_pantalla_2025-06-17_a_la_s_3.31.53_p.m._irqco9.png){width=500}
+
+
+:::
+
+::: {.g-col-6}
+
+During the 2024 presidential election, NPR took an innovative, visual-first approach to live coverage — combining live-blog imagery, host-led video updates, and shareable visual content optimized for social media. On Election Day (Nov. 5–6), I led the team for Instagram cards establishing and curating 25 real-time update cards, spotlighting key state races, Senate and House results, and historic wins. We also posted two brief videos featuring licensed wire footage of each candidate.
+
+A key part of our strategy was prioritizing sharable Instagram cards—designed to make election updates faster to consume, easier to share, and more impactful. These cards positioned NPR as a go-to source for the information that mattered most to our audience, reinforcing trust through clarity, timeliness, and relevance.
+
+The results:
+
+• 1.1M+ interactions
+
+• 5% average engagement rate for the entire coverage. The posts that were shared the most were these three:
+
+[Missouri abortion amendment](https://www.instagram.com/npr/p/DCBEylExiWy/) 
+
+[Alsobrooks wins Senate seat in Maryland](https://www.instagram.com/npr/p/DCBA9J3NlwL/) 
+
+[Harris conceded the election](https://www.instagram.com/npr/p/DCC-B4BvLx5/) 
+
+
+• Nearly 20 million users reached over two days.
+
+As part of the campaign, we also published several carousels using the same brand identity, focused on topics we knew would resonate with our audience. These two stories served as a lead-up to our election coverage, helping to establish a consistent visual language so viewers could easily recognize that it was all part of the same editorial effort.
+
+<!-- Row  -->
+::: {.grid}
+
+::: {.g-col-6}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750191777/Captura_de_pantalla_2025-06-17_a_la_s_3.34.15_p.m._ecs3wj.png){.lightbox width=600} 
+:::
+
+::: {.g-col-6}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750191775/Captura_de_pantalla_2025-06-17_a_la_s_3.34.40_p.m._fnmyby.png){.lightbox width=600} 
+
+:::
+:::
+
+This campaign demonstrated the power of mixing timeliness and visual storytelling to engage audiences in a fast-paced, high-stakes environment—helping NPR connect meaningfully with millions during a pivotal moment in democracy.
+:::
+
+::: <!-- end columns -->

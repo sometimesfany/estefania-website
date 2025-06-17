@@ -15,7 +15,7 @@ image: "https://res.cloudinary.com/dzjanugvs/image/upload/v1750191842/Captura_de
 
 ::: {.g-col-6}
 
-During the 2024 presidential election, NPR took an innovative, visual-first approach to live coverage — combining live-blog, host-led video updates, and shareable visual content optimized for social media. On Election Day (Nov. 5–6), I led the team for Instagram cards establishing and curating 25 real-time update cards, spotlighting key state races, Senate and House results, and historic wins. We also posted two brief videos featuring licensed wire footage of each candidate.
+During the 2024 presidential election, NPR took an innovative, visual-first approach to live coverage — combining live-blog, host-led video updates, and shareable visual content optimized for social media. On Election Day (Nov. 5–6), I led the team for Instagram cards curating 25 real-time update cards, spotlighting key state races, Senate and House results, and historic wins. We also posted two brief videos featuring licensed wire footage of each candidate.
 
 A key part of our strategy was prioritizing sharable Instagram cards—designed to make election updates faster to consume, easier to share, and more impactful. These cards positioned NPR as a go-to source for the information that mattered most to our audience, reinforcing trust through clarity, timeliness, and relevance.
 

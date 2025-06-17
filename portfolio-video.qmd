@@ -5,18 +5,13 @@ title: "Video"
 
 <!-- Row 2 -->
 ::: {.grid}
-::: {.g-col-4}
-{{< video https://www.instagram.com/reel/DK97Rk7pS55/?utm_source=ig_embed&amp;utm_campaign=loading >}}
+::: {.g-col-6}
+{{< video https://youtu.be/1QQexSq3_Tw?si=Ch1jU0CAX054yVgk >}}
 
 :::
 
-::: {.g-col-4}
-{{< video impremedia/ed7.mov >}}
-
-:::
-
-::: {.g-col-4}
-{{< video impremedia/ed8.mov >}}
+::: {.g-col-6}
+{{< video https://youtu.be/cmGGgGgUG-M?si=Ny9ZyPLpfnV_Xn33 >}}
 
 :::
 :::

@@ -1,0 +1,43 @@
+---
+title: "Breaking Down Asteroid Bennu for a Digital Audience"
+categories: [analysis]
+image: "https://res.cloudinary.com/dzjanugvs/image/upload/arrival-bennu-full-rotation_urwajs.webp"
+---
+
+
+::: {.grid}
+
+
+
+::: {.g-col-6}
+
+![](https://res.cloudinary.com/dzjanugvs/image/upload/arrival-bennu-full-rotation_urwajs.webp){width=500}
+
+
+:::
+
+::: {.g-col-6}
+
+For NASA en Español, accessibility in science communication isn’t just about language—it’s about format, delivery, and creating moments that help people feel part of something bigger. When it came time to share key findings from the OSIRIS-REx mission to Asteroid Bennu, we knew we had to go beyond just a press release.
+
+We launched a multimedia mini-campaign designed to break down the mission’s results across formats and platforms where our audience is most active. Across Instagram, X, Facebook, and YouTube, we published 11 posts ranging from short-form videos, GIFs, and images to repurposed interviews and Stories.
+
+The results:
+
+• Over 300,000 users reached
+
+• Instagram led the way, with a single reel reaching 100,00 users
+
+Content included both media interviews and re-edited expert commentary, giving us reusable material for future storytelling efforts
+
+This campaign served as a model for how we can translate complex science into digital-first formats, tapping into the curiosity of the public through visuals, voice, and cross-platform storytelling. By rethinking how we package mission updates, we’re making space exploration feel personal, understandable, and shareable.
+
+
+
+:::
+
+::: <!-- end columns -->
+
+
+
+

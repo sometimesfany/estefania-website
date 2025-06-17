@@ -21,6 +21,7 @@ website:
         - portfolio-video.qmd
         - portfolio-multimedia.qmd
         - portfolio-online.qmd
+        - portfolio-photos.qmd
 
 format:
   html:

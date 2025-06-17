@@ -1,0 +1,84 @@
+---
+title: Photos
+---
+
+
+<!-- Row 1 -->
+::: {.grid}
+
+::: {.g-col-6}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/DSC07291_fy49ww.jpg){.lightbox width=600} 
+:::
+
+::: {.g-col-6}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/DSC03010_kri396.jpg){.lightbox width=600} 
+
+:::
+:::
+
+
+<!-- Row 2 -->
+::: {.grid}
+::: {.g-col-4}
+
+
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/_DSC4750_ww4ptp.jpg){.lightbox width=600} 
+
+
+:::
+
+::: {.g-col-4}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/DSC08002_pannef.jpg){.lightbox width=600} 
+:::
+
+::: {.g-col-4}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/DSC05377_flldup.jpg){.lightbox width=600} 
+
+:::
+:::
+
+<!-- Row 3 -->
+::: {.grid}
+
+::: {.g-col-6}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/DSC02125_wpp1zy.jpg){.lightbox width=600} 
+:::
+
+::: {.g-col-6}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/_DSC3408_qwpaup.jpg){.lightbox width=600} 
+
+:::
+:::
+
+<!-- Row 4 -->
+::: {.grid}
+::: {.g-col-4}
+
+
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/Latto_EstefaniaMitre-06_ihdgbz.jpg){.lightbox width=600} 
+
+
+:::
+
+::: {.g-col-4}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/DSC08565_mazfwg.jpg){.lightbox width=600} 
+:::
+
+::: {.g-col-4}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/DSC02911_yyjoa0.jpg){.lightbox width=600} 
+
+:::
+:::
+
+<!-- Row 6 -->
+::: {.grid}
+
+::: {.g-col-6}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/DSC03585_r1b8qe.jpg){.lightbox width=600} 
+:::
+
+::: {.g-col-6}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/DSC08842_qzp1cn.jpg){.lightbox width=600} 
+
+:::
+:::

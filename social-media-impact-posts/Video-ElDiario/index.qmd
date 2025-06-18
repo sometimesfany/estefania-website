@@ -1,8 +1,6 @@
 ---
-title: "Instagram with Intention: Engaging Latino Audiences Through Video
-
-"
-categories: [Impremedia]
+title: "Instagram with Intention: Engaging Latino Audiences Through Video"
+categories: [Analysis]
 image: "https://res.cloudinary.com/dzjanugvs/image/upload/v1750279817/ElDiaro-1536x1125_agu5dx.png"
 ---
 

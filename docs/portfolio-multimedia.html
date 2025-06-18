@@ -42,6 +42,11 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-20c097dc4c9dce32dbe775ad4527447e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -190,6 +195,38 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>NPR’s Picture Show</p>
+<!-- Row 1 -->
+<div class="grid">
+<div class="g-col-6">
+<p><a href="https://res.cloudinary.com/dzjanugvs/image/upload/v1750277716/Captura_de_pantalla_2025-06-18_a_la_s_4.11.14_p.m._a8xo2s.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://res.cloudinary.com/dzjanugvs/image/upload/v1750277716/Captura_de_pantalla_2025-06-18_a_la_s_4.11.14_p.m._a8xo2s.png" class="img-fluid" width="600"></a></p>
+</div>
+<div class="g-col-6">
+<p><a href="https://res.cloudinary.com/dzjanugvs/image/upload/v1750277709/Captura_de_pantalla_2025-06-18_a_la_s_4.10.13_p.m._e2duhl.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="https://res.cloudinary.com/dzjanugvs/image/upload/v1750277709/Captura_de_pantalla_2025-06-18_a_la_s_4.10.13_p.m._e2duhl.png" class="img-fluid" width="600"></a></p>
+</div>
+</div>
+<!-- Row 2 -->
+<div class="grid">
+<div class="g-col-4">
+<p><a href="https://res.cloudinary.com/dzjanugvs/image/upload/v1750277711/Captura_de_pantalla_2025-06-18_a_la_s_4.10.30_p.m._gpgchv.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="https://res.cloudinary.com/dzjanugvs/image/upload/v1750277711/Captura_de_pantalla_2025-06-18_a_la_s_4.10.30_p.m._gpgchv.png" class="img-fluid" width="600"></a></p>
+</div>
+<div class="g-col-4">
+<p><a href="https://res.cloudinary.com/dzjanugvs/image/upload/v1750277721/Captura_de_pantalla_2025-06-18_a_la_s_4.12.22_p.m._hoqsew.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="https://res.cloudinary.com/dzjanugvs/image/upload/v1750277721/Captura_de_pantalla_2025-06-18_a_la_s_4.12.22_p.m._hoqsew.png" class="img-fluid" width="600"></a></p>
+</div>
+<div class="g-col-4">
+<p><a href="https://res.cloudinary.com/dzjanugvs/image/upload/v1750277726/Captura_de_pantalla_2025-06-18_a_la_s_4.13.03_p.m._aq4iqs.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="https://res.cloudinary.com/dzjanugvs/image/upload/v1750277726/Captura_de_pantalla_2025-06-18_a_la_s_4.13.03_p.m._aq4iqs.png" class="img-fluid" width="600"></a></p>
+</div>
+</div>
+<p>NASA en español’s newsletter</p>
+<!-- Row 1 -->
+<div class="grid">
+<div class="g-col-6">
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="https://res.cloudinary.com/dzjanugvs/video/upload/v1750278320/Grabacio%CC%81n_de_pantalla_2025-06-18_a_la_s_4.23.20_p.m._gcwi6d.mov"></video></div>
+</div>
+<div class="g-col-6">
+<div class="quarto-video"><video id="video_shortcode_videojs_video2" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="https://res.cloudinary.com/dzjanugvs/video/upload/v1750278316/Grabacio%CC%81n_de_pantalla_2025-06-18_a_la_s_4.21.24_p.m._pmm1fo.mov"></video></div>
+</div>
+</div>
 
 
 
@@ -606,6 +643,40 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </nav>
 </div> <!-- /content -->
+<script>videojs(video_shortcode_videojs_video1);</script>
+<script>videojs(video_shortcode_videojs_video2);</script>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

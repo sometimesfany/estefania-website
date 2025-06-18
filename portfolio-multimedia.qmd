@@ -1,3 +1,55 @@
 ---
 title: "Multimedia"
 ---
+
+NPR's Picture Show 
+
+<!-- Row 1 -->
+::: {.grid}
+
+::: {.g-col-6}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277716/Captura_de_pantalla_2025-06-18_a_la_s_4.11.14_p.m._a8xo2s.png){.lightbox width=600} 
+:::
+
+::: {.g-col-6}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277709/Captura_de_pantalla_2025-06-18_a_la_s_4.10.13_p.m._e2duhl.png){.lightbox width=600} 
+
+:::
+:::
+
+
+<!-- Row 2 -->
+::: {.grid}
+::: {.g-col-4}
+
+
+![ ]( https://res.cloudinary.com/dzjanugvs/image/upload/v1750277711/Captura_de_pantalla_2025-06-18_a_la_s_4.10.30_p.m._gpgchv.png){.lightbox width=600} 
+
+
+:::
+
+::: {.g-col-4}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277721/Captura_de_pantalla_2025-06-18_a_la_s_4.12.22_p.m._hoqsew.png){.lightbox width=600} 
+:::
+
+::: {.g-col-4}
+![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277726/Captura_de_pantalla_2025-06-18_a_la_s_4.13.03_p.m._aq4iqs.png){.lightbox width=600} 
+
+:::
+:::
+
+NASA en español's newsletter
+
+<!-- Row 1 -->
+::: {.grid}
+::: {.g-col-6}
+{{< video https://res.cloudinary.com/dzjanugvs/video/upload/v1750278320/Grabacio%CC%81n_de_pantalla_2025-06-18_a_la_s_4.23.20_p.m._gcwi6d.mov >}}
+
+:::
+
+::: {.g-col-6}
+{{< video https://res.cloudinary.com/dzjanugvs/video/upload/v1750278316/Grabacio%CC%81n_de_pantalla_2025-06-18_a_la_s_4.21.24_p.m._pmm1fo.mov >}}
+
+:::
+:::
+

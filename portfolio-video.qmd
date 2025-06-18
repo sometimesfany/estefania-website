@@ -2,7 +2,7 @@
 title: "Video"
 ---
 
-Everything here is something I have scripted and produced. 
+Everything here is sample of something I have scripted and/or produced. 
 
 <!-- Row 1 -->
 ::: {.grid}
@@ -50,6 +50,28 @@ Everything here is something I have scripted and produced.
 ::: {.g-col-4}
 {{< video https://res.cloudinary.com/dzjanugvs/video/upload/v1750193349/FarmWorkersEast_dnctfg.mp4 >}}
 
+:::
 
+::: {.g-col-4}
+{{< video https://res.cloudinary.com/dzjanugvs/video/upload/v1750277055/20230119_-_alt.latino_lwzvkz.mov >}}
+
+:::
+:::
+
+
+<!-- Row 4 -->
+::: {.grid}
+::: {.g-col-4}
+{{< video https://res.cloudinary.com/dzjanugvs/video/upload/v1750277071/20221112_-_alt.latino_mwk6dw.mov >}}
+
+:::
+
+::: {.g-col-4}
+{{< video https://res.cloudinary.com/dzjanugvs/video/upload/v1750277080/20221021_-_alt.latino_ldga7x.mov >}}
+
+:::
+
+::: {.g-col-4}
+{{< video https://res.cloudinary.com/dzjanugvs/video/upload/v1750277065/20230215_-_alt.latino_mc5cnw.mov >}}
 :::
 :::

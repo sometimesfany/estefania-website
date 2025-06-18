@@ -1,6 +1,6 @@
 ---
 title: "A Valentine’s Day Campaign with Heart (and Science)"
-categories: [analysis]
+categories: [NASA]
 image: "https://res.cloudinary.com/dzjanugvs/image/upload/v1750114062/Valentin_eceqzr.png"
 ---
 

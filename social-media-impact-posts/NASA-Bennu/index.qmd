@@ -1,6 +1,6 @@
 ---
 title: "Breaking Down Asteroid Bennu for a Digital Audience"
-categories: [analysis]
+categories: [NASA]
 image: "https://res.cloudinary.com/dzjanugvs/image/upload/arrival-bennu-full-rotation_urwajs.webp"
 ---
 

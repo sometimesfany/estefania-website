@@ -1,0 +1,34 @@
+---
+title: "Focus on Engagement, Not Just Likes"
+categories: [Analysis]
+image: "https://res.cloudinary.com/dzjanugvs/image/upload/v1750280760/share_a1aitj.png"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+
+![](https://res.cloudinary.com/dzjanugvs/image/upload/v1750280760/share_a1aitj.png){width=500}
+
+
+:::
+
+::: {.g-col-6}
+
+When people talk about “engagement,” they usually mean likes and comments. But for me, saves and shares became the key metrics—because they signal when content truly resonates. They show that a post was meaningful enough for someone to hold onto or pass along.
+
+For U.S. Latino audiences, content must feel intentional and authentic. It’s not just about translating—it’s about cultural fluency. Every decision—from visual tone to audio choices to phrasing is rooted in a desire to help our audience feel seen, reflected, and respected.
+
+Here’s the three things I keep in mind when thinking about driving engagement:
+
+Digestible content: Breaking complex issues into short, clear videos or visual explainers that were easy to consume—and easy to share. What are the online conversations saying? How can we tap into those conversations to signal we listen as a brand.
+
+Clear calls to action: Invite the audience to engage with you: “share this with someone who needs to see it” or “save this for later.” Or simply asking questions like "Did you know this?"
+
+Tag, collaborate, and engage: I regularly tag organizations and creators doing similar work, which encouraged discovery, collaboration, and broader community engagement.
+
+
+
+
+
+::: <!-- end columns -->

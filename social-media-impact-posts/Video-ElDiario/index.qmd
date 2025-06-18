@@ -1,0 +1,34 @@
+---
+title: "Instagram with Intention: Engaging Latino Audiences Through Video
+
+"
+categories: [Impremedia]
+image: "https://res.cloudinary.com/dzjanugvs/image/upload/v1750279817/ElDiaro-1536x1125_agu5dx.png"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+
+![](https://res.cloudinary.com/dzjanugvs/image/upload/v1750279817/ElDiaro-1536x1125_agu5dx.png){width=500}
+
+
+:::
+
+::: {.g-col-6}
+
+
+#### Using Video to Drive Deep Engagement on Instagram
+
+When I joined El Diario New York as a Local News Fellow, I noticed a storytelling gap in how we reached our audience on Instagram. Inspired by Telemundo’s consistent use of video, I ramped up our visual storytelling—specifically through IGTV and in-feed videos—to better connect with Latino audiences in a more personal and informative way.
+
+In my first month, I increased the number of video posts by 40x compared to the previous month. As a result, views jumped 18x, and we saw a notable shift in how our audience engaged with our content.
+
+For example, a video I created about [Vanessa Guillén’s disappearance](https://www.instagram.com/tv/CB3adnADHCw/)  generated 5x more shares and 2.5x more saves than a static post covering the same topic. I realized that video allowed me to pack more context, tone, and emotion into a post—filling in gaps that a single image or short caption couldn’t carry on its own.
+
+To build on that momentum, I launched [El Diario Chats](https://www.instagram.com/tv/CCE0FeGjGsR/), an Instagram Live series featuring Latino-owned businesses discussing how COVID-19 impacted them. These stories weren’t just informative—they created a space for the community to feel seen and heard.
+
+
+:::
+
+::: <!-- end columns -->

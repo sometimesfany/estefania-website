@@ -8,11 +8,14 @@ NPR's Picture Show
 ::: {.grid}
 
 ::: {.g-col-6}
-![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277716/Captura_de_pantalla_2025-06-18_a_la_s_4.11.14_p.m._a8xo2s.png){.lightbox width=600} 
+
+
+[![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277716/Captura_de_pantalla_2025-06-18_a_la_s_4.11.14_p.m._a8xo2s.png)](https://www.npr.org/sections/pictureshow/2022/09/16/1113455018/my-familia-of-dancers-a-legacy-of-love-for-the-craft)
 :::
 
 ::: {.g-col-6}
-![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277709/Captura_de_pantalla_2025-06-18_a_la_s_4.10.13_p.m._e2duhl.png){.lightbox width=600} 
+
+[![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277709/Captura_de_pantalla_2025-06-18_a_la_s_4.10.13_p.m._e2duhl.png)](https://www.npr.org/sections/pictureshow/2023/10/15/1203299832/indigenous-mexican-women-reclaim-their-power)
 
 :::
 :::
@@ -22,18 +25,18 @@ NPR's Picture Show
 ::: {.grid}
 ::: {.g-col-4}
 
-
-![ ]( https://res.cloudinary.com/dzjanugvs/image/upload/v1750277711/Captura_de_pantalla_2025-06-18_a_la_s_4.10.30_p.m._gpgchv.png){.lightbox width=600} 
-
+[![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277711/Captura_de_pantalla_2025-06-18_a_la_s_4.10.30_p.m._gpgchv.png)](https://www.npr.org/sections/pictureshow/2023/10/13/1202040057/photographer-captures-boxing-culture-in-mexico-to-connect-with-his-roots)
 
 :::
 
 ::: {.g-col-4}
-![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277721/Captura_de_pantalla_2025-06-18_a_la_s_4.12.22_p.m._hoqsew.png){.lightbox width=600} 
+
+[![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277721/Captura_de_pantalla_2025-06-18_a_la_s_4.12.22_p.m._hoqsew.png)](https://www.npr.org/sections/pictureshow/2022/05/03/1096121970/demonstrators-gather-at-the-supreme-courts-doorstep-following-roe-v-wade-opinion)
 :::
 
 ::: {.g-col-4}
-![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277726/Captura_de_pantalla_2025-06-18_a_la_s_4.13.03_p.m._aq4iqs.png){.lightbox width=600} 
+
+[![ ](https://res.cloudinary.com/dzjanugvs/image/upload/v1750277726/Captura_de_pantalla_2025-06-18_a_la_s_4.13.03_p.m._aq4iqs.png)](https://www.npr.org/sections/pictureshow/2022/06/30/1102449439/argentina-families-demand-justice-for-femicide-victims)
 
 :::
 :::
